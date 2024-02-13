@@ -4,7 +4,7 @@ module.mobileView=()=>{
                 <div class="col-md-4">
                 <div id="searchContainer" class="row">
                     <div class="col-12 mb-4">
-                        <img src="logo.png" width="25%" class="mb-4" alt="">
+                        <img src="https://uploads-ssl.webflow.com/632fce2e91252d5486f764e3/641c0e27cda87048a4f5b342_Top%20Bar.svg" width="25%" class="mb-4" alt="">
                     </div>
                     <div class="col-12 mt-2 mb-4 window-view">
                         <button id="show-list-btn" type="button" style="width:80%;height:42px;border-radius:25px;" class="btn btn-outline-dark">See nearby stores</button>
